@@ -270,6 +270,11 @@ h3 {
         display: flex;
     }
 
+    .grenouille img {
+        width: 250px;
+        height: 200px;
+    }
+
     .menu .main_pages {
         display: none;
         flex-direction: column;
